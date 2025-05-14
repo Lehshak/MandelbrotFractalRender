@@ -2,10 +2,13 @@
 
 A real-time Mandelbrot fractal renderer using OpenGL and C++, featuring GPU-accelerated computation and smooth green gradient coloring. This project demonstrates fragment shader programming, complex number iteration, and interactive zooming. Use W and S keys to zoom in and out and also arrow keys to move around the render!
 
+##  Zoomed-In View
+
 ![Mandelbrot Zoom](images/mandel_zoom.png)
 
-Here is the full render.
-![Mandelbrot Zoom](images/mandel_full.png)
+##  Full Render
+
+![Mandelbrot Full](images/mandel_full.png)
 
 ## Features
 
